@@ -9,8 +9,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnwanx" alt="mnwanx" /></a> </p>
 
-
+<center>
 <img src="https://mnwanx.github.io/assets/cursor.gif"></img>
+</center>c
 
 - 🔭 I’m currently working on [Streameo Project - Android music streaming app](https://streameo.onrender.com)
 
