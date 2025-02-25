@@ -2,7 +2,8 @@
 <audio src="https://firebasestorage.googleapis.com/v0/b/mymusicz.appspot.com/o/Sepi%20Sekuntum%20Mawar%20Merah.mp3?alt=media&token=ce6f0acb-cfe3-4cac-8220-d0deee8fcbc4" autoplay="true" hidden="false"></audio>
 <h1 align="center">Hi 👋, I'm Code</h1>
 <h3 align="center">Most of projects are in private repo</h3>
-<image align="center" src="https://www.pngkey.com/png/full/765-7653840_euclidean-vector-angle-forest-night-free-frame-clipart.png"></image>
+<p align="center">
+<image src="https://i.pinimg.com/originals/42/fc/0e/42fc0e93373654a68bb936d95983f8c5.gif"></image></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wanz772&label=Profile%20views%20(Old)&color=0e75b6&style=round" alt="wanz772" />
 <img src="https://komarev.com/ghpvc/?username=mnwanx&label=Profile%20views%20(New)&color=0e75b6&style=round" alt="mnwanx" />
 
