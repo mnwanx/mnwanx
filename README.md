@@ -1,3 +1,4 @@
+
 <audio src="https://firebasestorage.googleapis.com/v0/b/mymusicz.appspot.com/o/Sepi%20Sekuntum%20Mawar%20Merah.mp3?alt=media&token=ce6f0acb-cfe3-4cac-8220-d0deee8fcbc4" autoplay="true" hidden="false"></audio>
 <h1 align="center">Hi 👋, I'm Code</h1>
 <h3 align="center">Most of projects are in private repo</h3>
@@ -9,9 +10,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnwanx" alt="mnwanx" /></a> </p>
 
-<center>
-<img src="https://mnwanx.github.io/assets/cursor.gif" style="max-width: 100%; display: inline-block;" align="center"></img>
-</center>c
+<p align="center">
+<img src="https://mnwanx.github.io/assets/cursor.gif" style="background-color: black;max-width: 30%; display: inline-block;" ></img>
+</p>
 
 - 🔭 I’m currently working on [Streameo Project - Android music streaming app](https://streameo.onrender.com)
 
