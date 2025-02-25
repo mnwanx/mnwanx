@@ -11,7 +11,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnwanx" alt="mnwanx" /></a> </p>
 
 <p align="center">
-<img src="https://mnwanx.github.io/assets/cursor.gif" style="background-color: black;max-width: 30%; display: inline-block;" ></img>
+<img height="300" src="https://mnwanx.github.io/assets/cursor.gif" style="background-color: black;display: inline-block;" ></img>
 </p>
 
 - 🔭 I’m currently working on [Streameo Project - Android music streaming app](https://streameo.onrender.com)
