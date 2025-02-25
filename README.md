@@ -2,11 +2,15 @@
 <h1 align="center">Hi 👋, I'm Code</h1>
 <h3 align="center">Most of projects are in private repo</h3>
 <image align="center" src="https://www.pngkey.com/png/full/765-7653840_euclidean-vector-angle-forest-night-free-frame-clipart.png"></image>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mnwanx&label=Profile%20views&color=0e75b6&style=round" alt="mnwanx" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wanz772&label=Profile%20views%20(Old)&color=0e75b6&style=round" alt="wanz772" />
+<img src="https://komarev.com/ghpvc/?username=mnwanx&label=Profile%20views%20(New)&color=0e75b6&style=round" alt="mnwanx" />
+
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnwanx" alt="mnwanx" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img src="https://mnwanx.github.io/assets/cursor.gif"></img>
 
 - 🔭 I’m currently working on [Streameo Project - Android music streaming app](https://streameo.onrender.com)
 
