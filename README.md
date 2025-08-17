@@ -1,32 +1,27 @@
-
-<audio src="https://firebasestorage.googleapis.com/v0/b/mymusicz.appspot.com/o/Sepi%20Sekuntum%20Mawar%20Merah.mp3?alt=media&token=ce6f0acb-cfe3-4cac-8220-d0deee8fcbc4" autoplay="true" hidden="false"></audio>
-<h1 align="center">Hi 👋, I'm Code</h1>
+<style>
+@font-face {
+    font-family: "Old London";
+    src: url('https://mnwanx.github.io/assets/fonts/OldLondon.ttf') format('truetype');
+h1 {
+    font-family: "Old London";
+}
+}
+</style>
+<h1 align="center">He's dead. I'm Code</h1>
 <h3 align="center">Most of projects are in private repo</h3>
 <p align="center">
-<image src="https://i.pinimg.com/originals/42/fc/0e/42fc0e93373654a68bb936d95983f8c5.gif"></image></p>
+<image src="https://i.pinimg.com/736x/b3/48/3c/b3483ced40ecfc2c23787f6303507102.jpg" height="440px"></image></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wanz772&label=Profile%20views%20(Old)&color=0e75b6&style=round" alt="wanz772" />
 <img src="https://komarev.com/ghpvc/?username=mnwanx&label=Profile%20views%20(New)&color=0e75b6&style=round" alt="mnwanx" />
 
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnwanx" alt="mnwanx" /></a> </p>
+
 
 <p align="center">
-<img height="300" src="https://mnwanx.github.io/assets/cursor.gif" style="background-color: black;display: inline-block;" ></img>
 </p>
 
-- 🔭 I’m currently working on [Streameo Project - Android music streaming app](https://streameo.onrender.com)
-
-- 🌱 I’m currently learning **Mobile app, web app, backend development**
-
-- 🔭 Also check on [Masjid Locator Project - A backend server for searching near by mosque(s)](https://masjid.onrender.com)
-
-- 🔭 And this project too [Natural Hazard Forecast - Malaysian natural hazard forecast web app](https://mnwanx.github.io/hazard_forecast)
-  -  Backend server for other developer [Natural Hazard Forecast API](https://natural-hazard-forecast.onrender.com)
-
-- 🔭 Also [Resistor Calculator - A boring project I made just to calculate resistance](https://mnwanx.github.io)
-
-- 👨‍💻 All of my projects are available at [https://github.com/mnwanx](https://github.com/mnwanx)
+- Visit my [💀Pure Art💀](https://mnwanx.github.io) website or the [💻Professional Mode🌐](https://mnwanx.github.io/pro)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
